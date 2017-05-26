@@ -1,2 +1,2 @@
-git is a vesion control system.
-git is free software;
+Git is a distributed vesion control system.
+Git is free software;
